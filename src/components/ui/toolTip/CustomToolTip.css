@@ -1,0 +1,21 @@
+.custom-tooltip {
+  width: auto;
+  height: auto;
+  background-color: rgba(121, 161, 240, 0.85);
+  color: #ffffe6;
+  padding: 10px;
+  text-align: left;
+  border-radius: 3px;
+  font-family: "Montserrat", sans-serif;
+  /* font-family: " Quicksand Montserrat", sans-serif; */
+}
+
+.intro {
+  font-size: 13px;
+  margin: 0;
+  padding: 0;
+}
+
+.desc {
+  font-size: 13px;
+}
