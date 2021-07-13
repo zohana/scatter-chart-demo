@@ -38,7 +38,7 @@ const CustomButton = ({
 };
 
 CustomButton.propTypes = {
-  handleIsButtonDisabled: PropTypes.func,
+  handleIsButtonDisabled: PropTypes.bool,
   handleOnClick: PropTypes.func,
   children: PropTypes.element,
 };

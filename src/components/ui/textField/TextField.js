@@ -107,8 +107,8 @@ const TextFormField = ({
 // PropTypes
 TextFormField.propTypes = {
   handleChange: PropTypes.func.isRequired,
-  valueX: PropTypes.number.isRequired,
-  valueY: PropTypes.number.isRequired,
+  valueX: PropTypes.string.isRequired,
+  valueY: PropTypes.string.isRequired,
   errorY: PropTypes.bool.isRequired,
   errorX: PropTypes.bool.isRequired,
   errorTextX: PropTypes.string.isRequired,
